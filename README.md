@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tusharrajput001
+- 👋 Hi, I’m Tushar Rajput
 - 👀 I’m interested in Web Development 
 
 <!---
