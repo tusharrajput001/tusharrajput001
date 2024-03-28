@@ -1,7 +1,7 @@
  <h1 align="center">Hey 👋</h1>
 
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&pause=900&size=40&color=042D5E&width=500&height=60&lines=++My+name+is+Chetan+Jangid" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&pause=900&size=40&color=042D5E&width=500&height=60&lines=++My+name+is+Tushar+Rajput" alt="Typing SVG" />
 <h2 align="center"> and I'm a Web Developer .</h2></a></p>
 <h2 align="left">About me</h2>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxwamdkNzVrcWI0aDI1em1rdW44b2g1YWdtdzJtc3c4bHpwcWhneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding" width="250">
