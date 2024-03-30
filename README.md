@@ -13,7 +13,7 @@
  
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+and+Wordpress+Expert;Frontend+Developer;Cpp%20|%20Python%20|%20C;Full+Stack+Developer;Next+Enthusiast;Cyber+Security%20|%20Data+Science%20|%20Java;Always%20Learning%20;Always%20developing%20my%20skills&center=true&width=400&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Cpp%20|%20Python%20|%20C;Full+Stack+Developer;Next+Enthusiast;Always%20Learning%20;Always%20developing%20my%20skills&center=true&width=400&height=45">
 	</a>
 </p>
 
