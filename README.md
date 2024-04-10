@@ -14,7 +14,8 @@
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Cpp%20|%20Python%20|%20C;Full+Stack+Developer;Next+Enthusiast;Always%20Learning%20;Always%20developing%20my%20skills&center=true&width=400&height=45">
-	</a>
+	</a>  
+	
 </p>
 
 <h2 align="left">I code with</h2>
