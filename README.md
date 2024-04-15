@@ -8,7 +8,7 @@
 <p align="left">
  📚 I'm currently learning Nextjs<br><br>
  🙋‍♀️ Reach out anytime : <a  href="mailto:tusharr0491@gmail.com" >tusharr0491@gmail.com</a><br>
- <!---🎲 Fun fact: M gonna start a challenge called 30 days of mini projects soon</p>-->
+ <!---🎲 Fun fact: M gonna start a challenge called 30 days of mini projects soon</p>-->  
 <br>
  
 <p align="center">
