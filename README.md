@@ -6,7 +6,6 @@
 <h2 align="left">About me</h2>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxwamdkNzVrcWI0aDI1em1rdW44b2g1YWdtdzJtc3c4bHpwcWhneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding" width="200" height="200">
 <p align="left">
- 📚 I'm currently learning Nextjs<br><br>
  🙋‍♀️ Reach out anytime : <a  href="mailto:tusharr0491@gmail.com" >tusharr0491@gmail.com</a><br>
  <!---🎲 Fun fact: M gonna start a challenge called 30 days of mini projects soon</p>-->  
 <br>
