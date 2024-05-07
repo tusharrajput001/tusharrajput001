@@ -17,7 +17,7 @@
 	
 </p>   
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheetal59&theme=midnight-purple)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tusharrajput001&theme=midnight-purple)](https://git.io/streak-stats)
 
 <h2 align="left">I code with</h2>
 
