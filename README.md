@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&pause=900&size=40&color=BBC4D5&width=500&height=60&lines=++My+name+is+Tushar+Rajput" alt="Typing SVG" />
 <h2 align="center"> I'm a Web Developer .</h2></a></p>
 <h2 align="left">About me</h2>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxwamdkNzVrcWI0aDI1em1rdW44b2g1YWdtdzJtc3c4bHpwcWhneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding" width="200" height="200">
+
 <p align="left">
  🙋‍♀️ Reach out anytime : <a  href="mailto:tusharr0491@gmail.com" >tusharr0491@gmail.com</a><br>
  <!---🎲 Fun fact: M gonna start a challenge called 30 days of mini projects soon</p>-->  
@@ -14,11 +14,21 @@
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Cpp%20|%20Python%20|%20C;Full+Stack+Developer;Next+Enthusiast;Always%20Learning%20;Always%20developing%20my%20skills&center=true&width=400&height=45">
 	</a>  
-	
 </p>   
+
+<div align="center">
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tusharrajput001&theme=midnight-purple)](https://git.io/streak-stats)
 
+
+##   GitHub Stats📊
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharrajput001&theme=radical)
+   
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusharrajput001&theme=moonlight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusharrajput001&theme=moonlight)
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -67,7 +77,7 @@
 	
   
 
-	
+</div>
   
 </div>
 
