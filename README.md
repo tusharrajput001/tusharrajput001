@@ -12,7 +12,7 @@
  
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=DSA;Cpp%20|%20Python%20|%20C;Full+Stack+Developer;Always%20Learning%20;Always%20developing%20my%20skills&center=true&width=400&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=DSA;Cpp%20|%20Python%20|%20Javascript;Full+Stack+Developer;Always%20Learning%20;Always%20developing%20my%20skills&center=true&width=400&height=45">
 	</a>  
 </p>   
 
