@@ -1,6 +1,6 @@
  <h1 align="center">Hey 👋</h1> 
  
- <p align="center">
+ <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&pause=900&size=40&color=BBC4D5&width=500&height=60&lines=++My+name+is+Tushar+Rajput" alt="Typing SVG" />
 <h2 align="center"> I'm a Web Developer .</h2></a></p>
 <h2 align="left">About me</h2>
