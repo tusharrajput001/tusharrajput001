@@ -72,6 +72,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
+  <img src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1-300x300.png" height="40" alt="Linux logo" />
+  <img width="12" />
 
 	
   
