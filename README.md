@@ -17,7 +17,7 @@
 
 <div align="center">
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tusharrajput001&theme=midnight-purple)](https://git.io/streak-stats)
+
 
 
 ##   GitHub Stats📊
